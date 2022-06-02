@@ -1,6 +1,5 @@
 import findspark
 findspark.init()
-import matplotlib.pyplot as plt
 from pyspark.sql import SparkSession, SQLContext
 
 
